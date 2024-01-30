@@ -1,6 +1,6 @@
 # pingapp
 
-How to execute script:
+How to execute script and open JSON results:
 
 
 1. Ensure that the data directory has the required files:
@@ -20,4 +20,4 @@ pip install requests
 python employeeCheck.py
 ````
 
-4. JSON results file will be generated in the results directory:
+4. JSON results file will be generated in the results directory.
